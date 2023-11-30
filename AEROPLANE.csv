@@ -1,0 +1,9 @@
+aero_id,aero_name,type,hangar,owner_id
+201,Airbus A320,1,101,2
+202,Boeing 737,2,102,3
+203,Cessna 172,3,103,1
+204,Embraer E190,1,102,4
+205,Boeing 787,2,101,5
+206,Cessna 208,3,103,1
+207,Airbus A350,2,102,2
+208,Beechcraft King Air,3,103,2
