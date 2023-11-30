@@ -1,4 +1,4 @@
-license_num,hrs_flown,restricts
-1001,5000,Night flying
-1002,7000,None
-1003,3000,Instrument rating
+license_num,pilot_name,hrs_flown,restricts
+1001,"Drake Plaza",5000,Night flying
+1002,"Kiera Twig",7000,None
+1003,"Bella Waters",3000,Instrument rating
